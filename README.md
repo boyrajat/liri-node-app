@@ -1,2 +1,2 @@
 # liri-node-app
-Language Interpretation &amp; Recognition Interface
+Liri - Language Interpretation and Recognition interface
