@@ -123,3 +123,11 @@ ME:  Joe.… https://t.co/5qLUsDoaMi
 * Artist: Gul Hora
 * Preview (CMD+DBLCLICK -->): https://p.scdn.co/mp3-preview/f67658484d0ff5b00193a6f0551e3181b9a500a8?cid=92d653c5f64a4ee8a2c5091b37ea2a37
 
+
+*** SONG INFO LOGGED
+<--------YOUR SONG SEARCH RESULTS-------->
+* Song: Umbrella
+* Album: Good Girl Gone Bad: Reloaded
+* Artist: Rihanna
+* Preview (CMD+DBLCLICK -->): null
+

@@ -22,6 +22,8 @@ Follwing feature are available :
     node liri.js spotify-this-song "your song choice"
     node liri.js movie-this "your movie choice"
     
+    <in some cases of copyrights, a preview link for a song may not be available>
+    
     Have Fun !!!!!
     
     Copyright - Rajat Narula - 2018
